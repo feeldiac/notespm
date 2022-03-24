@@ -1,0 +1,16 @@
+{
+  "name": "pack1",
+  "version": "1.0.0",
+  "description": "Building a node package",
+  "main": "scr/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Fernando Díaz <feeldiac@gmail.com>",
+  "license": "MIT"
+}
